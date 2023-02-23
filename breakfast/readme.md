@@ -5,7 +5,8 @@
 ## Time to prepare: 
 
 ## Ingredients:
-Pancake mix
+Pancake mix 
+Sugar
 
 ## Equipment needed:
  
