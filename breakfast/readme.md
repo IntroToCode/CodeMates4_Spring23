@@ -3,13 +3,13 @@
 ## Servings: 7
 
 ## Time to prepare: 
-
+15 mins
 ## Ingredients:
 Pancake mix
-
+eggs
 ## Equipment needed:
- 
-
+whisk 
+bowl
 ## Steps for preparation:
 
 
@@ -19,3 +19,4 @@ Pancake mix
 
 
 ### Codemates #
+Jake, Haider, Ella, Soledad, and Tanaz
