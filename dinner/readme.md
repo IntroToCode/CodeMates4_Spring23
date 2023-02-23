@@ -15,7 +15,7 @@
 
 
 ### Notes:
-
+Affordable and easy to make! 
 
 
 ### Codemates #
