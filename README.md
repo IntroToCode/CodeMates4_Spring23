@@ -1,5 +1,5 @@
 # Assignment C - Part 2: GitHub Codemates Group Work
 
-Details for this assignment are in bCourses. 
+Codemates4 are creating a receipe for Breakfast & Dinner
 
-This readme is editable.
+The Team has Haider, Ella, Soledad, Jake, and Tanaz
