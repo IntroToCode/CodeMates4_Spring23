@@ -7,14 +7,15 @@
 ## Ingredients:
 Pancake mix
 
-eggs
+Eggs
 
-water
+Water
 
 Syrup
 
+Butter
 ## Equipment needed:
-Whisk,
+Whisk
 
 Bowl
 
@@ -29,9 +30,9 @@ Stove
 
 3. Once the batter is mixed, we will put the batter onto the pan (on the stove) for 2 mins on each side
 
-
+4. Once the pancake is cooked on both sides, grab a plate to add some butter and pour some syrup to enjoy
 ### Notes:
-
+Add chocolate chips to spice up the meal :)
 
 
 ### Codemates #
