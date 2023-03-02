@@ -1,4 +1,4 @@
-# Replace with recipe name
+# How to make Pancakes
 
 ## Servings: 7
 
@@ -7,11 +7,18 @@
 ## Ingredients:
 Pancake mix
 eggs
-## Equipment needed:
-whisk 
-bowl
-## Steps for preparation:
+water
 
+## Equipment needed:
+Whisk 
+Bowl
+Pan
+Stove
+
+## Steps for preparation:
+Grab your ingredients
+Mix the ingredients in the bowl
+Once the batter is mixed, we will put the batter onto the pan (on the stove) for 2 mins on each side
 
 
 ### Notes:
