@@ -1,8 +1,8 @@
-# Replace with recipe name
+# Spaghetti with Sun-Dried Tomato-Almond Pesto
 
-## Servings: 
+## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 45 minutes
 
 ## Ingredients:
 
