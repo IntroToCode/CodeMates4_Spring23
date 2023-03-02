@@ -11,6 +11,8 @@ eggs
 
 water
 
+Syrup
+
 ## Equipment needed:
 Whisk,
 
