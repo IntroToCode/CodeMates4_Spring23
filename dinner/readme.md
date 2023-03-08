@@ -30,6 +30,8 @@
 
 - Pot
 
+- Cutting board
+
 ## Steps for preparation:
 1. In a food processor, pulse the tomatoes, almonds and garlic. Add 1/4 cup of the oil and puree. Season with salt and pepper.
 
