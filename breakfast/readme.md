@@ -1,6 +1,6 @@
 # How to make Pancakes
 
-## Servings: 7
+## Servings: 9
 
 ## Time to prepare: 
 15 mins
