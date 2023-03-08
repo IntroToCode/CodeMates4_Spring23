@@ -42,7 +42,7 @@
 
 ### Notes:
 Affordable and easy to make! 
-
+Optional: to spice it up add parmesan and cilantro
 
 ### Codemates #
 
