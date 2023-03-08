@@ -3,7 +3,7 @@
 ## Servings: 7
 
 ## Time to prepare: 
-15 mins
+20 mins
 ## Ingredients:
 Pancake mix
 
