@@ -18,9 +18,11 @@
 
 - ½ cup fresh bread crumbs
 
-- 12 ounces spaghetti
+- 8 ounces spaghetti
 
 - 2 tablespoons chopped parsley
+
+- 8 cups of water
 
 ## Equipment needed:
 
